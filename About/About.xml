@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>NoMoreSlaveCaravans</name>
+  <author>NinjaBobtail</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>NinjaBobtail.NoMoreSlaveCaravans</packageId>
+  <description>It's pretty simple, disables caravans</description>
+
+</ModMetaData>
